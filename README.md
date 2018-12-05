@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 4th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kalien Keys
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment builds an application using jQuery to respond to user interaction. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kzk15fsu.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to implement the hover() method.
+2. Learned how to change the background color within a JavaScript file.
+3. Utilized src to link a JavaScript file to the HTML page.
 
